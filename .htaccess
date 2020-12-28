@@ -1,4 +1,0 @@
-AuthType Basic  
-AuthName "restricted area"  
-AuthUserFile https://francoisveillette.github.io/projets/.htpasswd 
-require valid-user
